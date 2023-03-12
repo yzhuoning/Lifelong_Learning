@@ -18,6 +18,7 @@
 
 **Stable Diffusion**
 - [ ] [AIGC—可编辑的图像生成](https://zhuanlan.zhihu.com/p/609525165) 
+- [ ] Need a paper list 
 
 
 **Continual Learning**
